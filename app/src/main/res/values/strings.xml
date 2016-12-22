@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mascotita 4.0</string>
+    <string name="hint_nombre">Nombre Completo</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_comentario">Ingrese sus comentarios</string>
+    <string name="hint_autor">J. R. Vivanco</string>
+    <string name="hint_copyright">Desarrollado en Android Studio 2.2.3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
